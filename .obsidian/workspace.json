@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "264c5496416b95ea",
+        "id": "7b43b977aee35862",
         "type": "tabs",
         "children": [
           {
-            "id": "25eb85970f1c3602",
+            "id": "7923324440f9022d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cmake.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Cmake"
             }
           }
         ]
@@ -75,8 +79,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -144,9 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Cmake.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Cmake 的大纲"
             }
           },
           {
@@ -175,8 +181,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           },
           {
@@ -188,9 +194,29 @@
               "icon": "lucide-file",
               "title": "插件不再活动"
             }
+          },
+          {
+            "id": "f2b6d859d20240ec",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "0b04cd80f7e7f00b",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -203,58 +229,63 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "755bbeffa39b014d",
+  "active": "7923324440f9022d",
   "lastOpenFiles": [
+    "未命名.md",
+    "Python/迭代.md",
+    "Python/List_in_tuple2.png",
+    "Python/numpy.md",
+    "Python/python变量示例.png",
+    "Python/Python基础.md",
+    "Python/Tuple.md",
+    "TODO.canvas",
+    "Summary writing.md",
+    "README.md",
+    "Cmake.md",
+    "c++整数集合类设计.md",
+    "c++消除注释.md",
+    "数据结构/绪论.md",
+    "数据结构/线性表.md",
+    "C++/基础/初始化.md",
+    "C++/基础/代码框架(初学).md",
+    "Python/List_in_Tuple.png",
+    "Python/Decimal.md",
+    "Python/分片拷贝.png",
+    "Python/1.png",
     "计算机导论/数字逻辑电路入门.md",
     "计算机导论/数字的表示.md",
     "计算机导论/初窥CPU执行原理-汇编入门.md",
     "计算机导论",
     "新建文件夹 (2)",
     "新建文件夹",
-    "c++整数集合类设计.md",
-    "c++消除注释.md",
     "数字逻辑电路入门.md",
     "数字的表示.md",
     "初窥CPU执行原理-汇编入门.md",
-    "Cmake.md",
     "C++/STL/STL容器/标准模板库(STL).md",
     "C++/STL/STL容器/vector.md",
     "C++/STL/STL容器/STL容器.png",
     "C++/STL/STL容器/STL容器.md",
     "C++/STL/STL容器/Deque.md",
     "C++/基础/随机数函数.md",
-    "C++/基础/运算符重载.md",
-    "C++/基础/联合体.md",
-    "C++/基础/运算.md",
-    "C++/基础/输入与输出.md",
-    "C++/基础/继承.md",
-    "C++/基础/类型别名.md",
-    "C++/基础/结构体.md",
-    "C++/基础/类.md",
-    "C++/基础/数组.md",
-    "C++/基础/模板.md",
-    "C++/基础/文件操作.md",
-    "C++/基础/指针.md",
     "C++/基础/C++运算符优先级.png",
     "C++/STL/STL容器",
     "C++/基础",
     "C++/STL",
     "C++",
-    "TODO.canvas",
     "算法",
     "数据结构/链表的插入与删除.png",
     "数据结构",
     "vim",
     "Python/赋值拷贝.png",
-    "Python/分片拷贝.png",
-    "Python/python变量示例.png",
-    "Python/List_in_tuple2.png",
-    "Python/List_in_Tuple.png",
     "Python/2.png",
-    "Python/1.png",
     "未命名.canvas"
   ]
 }
