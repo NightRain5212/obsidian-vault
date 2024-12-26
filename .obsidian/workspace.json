@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "1fe1edf319c32050",
+    "type": "split",
+    "children": [
+      {
+        "id": "264c5496416b95ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25eb85970f1c3602",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4af386c6ff32423",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b344871d96ca187",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "755bbeffa39b014d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "adec54eb46533ad7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#define",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "82afd70f16ab4cb0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "229ec5eeedca520f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.50152587890625
+  },
+  "right": {
+    "id": "20020d3bfe042eb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5be5831d1d889db8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa1891425e5e593a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS61b/Week2--SLList.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Week2--SLList 的反向链接列表"
+            }
+          },
+          {
+            "id": "1a7f636248b61b48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/WSL-Arch配置.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "WSL-Arch配置 的出链列表"
+            }
+          },
+          {
+            "id": "e4c87c11b9966ac4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f8e102a708b456e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "bc3ad81f7429d9a6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "d7f647ad509e0934",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "a69a9a0b40e5a78e",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "96febaafb95734d6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "755bbeffa39b014d",
+  "lastOpenFiles": [
+    "计算机导论/数字逻辑电路入门.md",
+    "计算机导论/数字的表示.md",
+    "计算机导论/初窥CPU执行原理-汇编入门.md",
+    "计算机导论",
+    "新建文件夹 (2)",
+    "新建文件夹",
+    "c++整数集合类设计.md",
+    "c++消除注释.md",
+    "数字逻辑电路入门.md",
+    "数字的表示.md",
+    "初窥CPU执行原理-汇编入门.md",
+    "Cmake.md",
+    "C++/STL/STL容器/标准模板库(STL).md",
+    "C++/STL/STL容器/vector.md",
+    "C++/STL/STL容器/STL容器.png",
+    "C++/STL/STL容器/STL容器.md",
+    "C++/STL/STL容器/Deque.md",
+    "C++/基础/随机数函数.md",
+    "C++/基础/运算符重载.md",
+    "C++/基础/联合体.md",
+    "C++/基础/运算.md",
+    "C++/基础/输入与输出.md",
+    "C++/基础/继承.md",
+    "C++/基础/类型别名.md",
+    "C++/基础/结构体.md",
+    "C++/基础/类.md",
+    "C++/基础/数组.md",
+    "C++/基础/模板.md",
+    "C++/基础/文件操作.md",
+    "C++/基础/指针.md",
+    "C++/基础/C++运算符优先级.png",
+    "C++/STL/STL容器",
+    "C++/基础",
+    "C++/STL",
+    "C++",
+    "TODO.canvas",
+    "算法",
+    "数据结构/链表的插入与删除.png",
+    "数据结构",
+    "vim",
+    "Python/赋值拷贝.png",
+    "Python/分片拷贝.png",
+    "Python/python变量示例.png",
+    "Python/List_in_tuple2.png",
+    "Python/List_in_Tuple.png",
+    "Python/2.png",
+    "Python/1.png",
+    "未命名.canvas"
+  ]
+}
