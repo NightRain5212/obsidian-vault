@@ -1,84 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Cmake",
-      "path": "Cmake.md"
+      "basename": "欧拉回路",
+      "path": "算法/欧拉回路.md"
     },
     {
-      "basename": "迭代",
-      "path": "Python/迭代.md"
+      "basename": "图",
+      "path": "数据结构/图.md"
     },
     {
-      "basename": "List_in_tuple2",
-      "path": "Python/List_in_tuple2.png"
+      "basename": "SQL",
+      "path": "web/SQL.md"
     },
     {
-      "basename": "numpy",
-      "path": "Python/numpy.md"
+      "basename": "MYSQL",
+      "path": "web/MYSQL.md"
     },
     {
-      "basename": "python变量示例",
-      "path": "Python/python变量示例.png"
+      "basename": "拓补排序",
+      "path": "算法/拓补排序.md"
     },
     {
-      "basename": "Python基础",
-      "path": "Python/Python基础.md"
+      "basename": "排序",
+      "path": "算法/排序.md"
     },
     {
-      "basename": "Tuple",
-      "path": "Python/Tuple.md"
+      "basename": "最短路径",
+      "path": "算法/最短路径.md"
     },
     {
-      "basename": "TODO",
-      "path": "TODO.canvas"
+      "basename": "前缀和&差分",
+      "path": "算法/前缀和&差分.md"
     },
     {
-      "basename": "Summary writing",
-      "path": "Summary writing.md"
+      "basename": "CSS",
+      "path": "web/CSS.md"
+    },
+    {
+      "basename": "CSS常见属性",
+      "path": "web/CSS常见属性.md"
+    },
+    {
+      "basename": "VUE",
+      "path": "web/VUE.md"
+    },
+    {
+      "basename": "Agent",
+      "path": "agent/Agent.md"
+    },
+    {
+      "basename": "HTML",
+      "path": "web/HTML.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "web/JavaScript.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "Linux/Linux.md"
+    },
+    {
+      "basename": "WSL-Arch配置",
+      "path": "Linux/WSL-Arch配置.md"
+    },
+    {
+      "basename": "树",
+      "path": "数据结构/树.md"
+    },
+    {
+      "basename": "Huffman树",
+      "path": "数据结构/Huffman树.md"
+    },
+    {
+      "basename": "二叉树基本算法",
+      "path": "数据结构/二叉树基本算法.md"
+    },
+    {
+      "basename": "KMP",
+      "path": "算法/KMP.md"
+    },
+    {
+      "basename": "最小生成树算法",
+      "path": "算法/最小生成树算法.md"
+    },
+    {
+      "basename": "Week11",
+      "path": "CS61b/Week11.md"
+    },
+    {
+      "basename": "Week10",
+      "path": "CS61b/Week10.md"
+    },
+    {
+      "basename": "Week9",
+      "path": "CS61b/Week9.md"
+    },
+    {
+      "basename": "Week8",
+      "path": "CS61b/Week8.md"
+    },
+    {
+      "basename": "Week7",
+      "path": "CS61b/Week7.md"
+    },
+    {
+      "basename": "Week6",
+      "path": "CS61b/Week6.md"
+    },
+    {
+      "basename": "Week5",
+      "path": "CS61b/Week5.md"
+    },
+    {
+      "basename": "Week4",
+      "path": "CS61b/Week4.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "c++整数集合类设计",
-      "path": "c++整数集合类设计.md"
+      "basename": "Week2",
+      "path": "CS61c/Week2.md"
     },
     {
-      "basename": "c++消除注释",
-      "path": "c++消除注释.md"
+      "basename": "枚举",
+      "path": "算法/枚举.md"
     },
     {
-      "basename": "绪论",
-      "path": "数据结构/绪论.md"
+      "basename": "模拟",
+      "path": "算法/模拟.md"
     },
     {
-      "basename": "线性表",
-      "path": "数据结构/线性表.md"
+      "basename": "Internet",
+      "path": "计算机网络/Internet.md"
+    },
+    {
+      "basename": "Axios",
+      "path": "web/Axios.md"
+    },
+    {
+      "basename": "jQuery",
+      "path": "web/jQuery.md"
+    },
+    {
+      "basename": "Express",
+      "path": "Express.md"
+    },
+    {
+      "basename": "Week3",
+      "path": "CS61b/Week3.md"
+    },
+    {
+      "basename": "Drawing 2025-04-04 00.37.28.excalidraw",
+      "path": "Excalidraw/Drawing 2025-04-04 00.37.28.excalidraw.md"
+    },
+    {
+      "basename": "Week2--SLList",
+      "path": "CS61b/Week2--SLList.md"
+    },
+    {
+      "basename": "模板",
+      "path": "C++/基础/模板.md"
+    },
+    {
+      "basename": "随机数函数",
+      "path": "C++/基础/随机数函数.md"
+    },
+    {
+      "basename": "命名空间",
+      "path": "C++/基础/命名空间.md"
+    },
+    {
+      "basename": "输入与输出",
+      "path": "C++/基础/输入与输出.md"
+    },
+    {
+      "basename": "文件操作",
+      "path": "C++/基础/文件操作.md"
+    },
+    {
+      "basename": "友元",
+      "path": "C++/基础/友元.md"
+    },
+    {
+      "basename": "多态",
+      "path": "C++/基础/多态.md"
     },
     {
       "basename": "初始化",
       "path": "C++/基础/初始化.md"
     },
     {
-      "basename": "代码框架(初学)",
-      "path": "C++/基础/代码框架(初学).md"
+      "basename": "Nodejs",
+      "path": "web/Nodejs.md"
     },
     {
-      "basename": "List_in_Tuple",
-      "path": "Python/List_in_Tuple.png"
-    },
-    {
-      "basename": "Decimal",
-      "path": "Python/Decimal.md"
-    },
-    {
-      "basename": "分片拷贝",
-      "path": "Python/分片拷贝.png"
-    },
-    {
-      "basename": "1",
-      "path": "Python/1.png"
+      "basename": "element-plus",
+      "path": "web/element-plus.md"
     }
   ],
   "omittedPaths": [],

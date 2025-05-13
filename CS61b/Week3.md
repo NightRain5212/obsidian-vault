@@ -3,7 +3,7 @@
 
 - Double Linked List ：双向链表
 - Node组成：
-	- 该节点包含的元素
+	- 该节点包含的<font color="#4bacc6">元素</font>
 	- 下一个节点的地址
 	- 上一个结点的地址
 
@@ -25,7 +25,7 @@
 ### 泛化列表
 
 - 类似于C语言的模板，为使用多种类型的列表提供了基础，允许用户选择列表元素的类型。
-- 泛化类的创建
+- 泛化类的<span style="background:#fff88f">创建</span>
 
 ```java
 public class Classname<sometype> {
