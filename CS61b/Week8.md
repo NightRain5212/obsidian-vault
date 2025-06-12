@@ -25,7 +25,6 @@ public interface MinPQ<T> {
 | getSmallest    | $\Theta(1)$   | $\Theta(log \space N)$ | $\Theta(N)$ | $\Theta(1)$            |
 | removeSmallest | $\Theta(N)$   | $\Theta(log \space N)$ | $\Theta(N)$ | $\Theta(log \space N)$ |
 
-
 ## Heap(堆)
 
 ### 二叉最小堆

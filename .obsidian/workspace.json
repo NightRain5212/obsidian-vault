@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c5362b09c6e46f93",
+        "id": "2c341ea5bff7074b",
         "type": "tabs",
         "children": [
           {
-            "id": "5750d4ca78cc05e1",
+            "id": "2a6723fad832bb7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/欧拉回路.md",
+                "file": "算法/查找.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欧拉回路"
+              "title": "查找"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/排序.md",
+                "file": "离散数学/一阶逻辑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "排序 的反向链接列表"
+              "title": "一阶逻辑 的反向链接列表"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/排序.md",
+                "file": "离散数学/一阶逻辑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "排序 的出链列表"
+              "title": "一阶逻辑 的出链列表"
             }
           },
           {
@@ -144,31 +144,6 @@
               },
               "icon": "lucide-tags",
               "title": "标签"
-            }
-          },
-          {
-            "id": "f8e102a708b456e4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "算法/欧拉回路.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "欧拉回路 的大纲"
-            }
-          },
-          {
-            "id": "bc3ad81f7429d9a6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
             }
           },
           {
@@ -220,13 +195,28 @@
               "icon": "lines-of-text",
               "title": "Quiet Outline"
             }
+          },
+          {
+            "id": "a0e326931414baa5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "离散数学/一阶逻辑.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "一阶逻辑 的大纲"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 223.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,35 +233,39 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "5750d4ca78cc05e1",
+  "active": "2a6723fad832bb7f",
   "lastOpenFiles": [
-    "数据结构/图.md",
-    "web/SQL.md",
-    "web/MYSQL.md",
-    "算法/拓补排序.md",
-    "算法/排序.md",
-    "算法/最短路径.md",
-    "算法/前缀和&差分.md",
-    "web/CSS.md",
-    "web/CSS常见属性.md",
-    "web/VUE.md",
-    "agent/Agent.md",
-    "web/HTML.md",
-    "web/JavaScript.md",
-    "Linux/Linux.md",
-    "Linux/WSL-Arch配置.md",
-    "agent",
-    "数据结构/树.md",
-    "数据结构/Huffman树.md",
-    "数据结构/二叉树基本算法.md",
-    "算法/KMP.md",
-    "算法/最小生成树算法.md",
-    "CS61b/Week11.md",
+    "算法/查找.md",
+    "物理/动量与角动量.md",
+    "物理/功与能.md",
+    "物理/刚体的定轴转动.md",
+    "物理/牛顿运动定律.md",
+    "物理/相对论.md",
+    "物理/质点运动学.md",
+    "离散数学/一阶逻辑.md",
     "CS61b/Week10.md",
-    "CS61b/Week9.md",
-    "CS61b/Week8.md",
-    "CS61b/Week7.md",
-    "CS61b/Week6.md",
+    "CS61b/Week11.md",
+    "算法/排序.md",
+    "算法/外部排序.md",
+    "数据结构/败者树.md",
+    "().md",
+    "离散数学/命题逻辑.md",
+    "算法/前缀和&差分.md",
+    "QT/QT.md",
+    "CS61b/Week3.md",
+    "CS61b/Week4.md",
+    "CS61b/Week2--SLList.md",
+    "CS61b/Week1--Java基础.md",
+    "C/数组.md",
+    "C++/基础/数组.md",
+    "README.md",
+    "Cmake.md",
+    "C/函数.md",
+    "物理",
+    "数学分析",
+    "离散数学",
+    "QT",
+    "agent",
     "未命名.canvas",
     "Pasted image 20250404135847.png",
     "Excalidraw",
@@ -288,10 +282,6 @@
     "CS61c/1742649584882.png",
     "CS61c",
     "MCM/B",
-    "MCM/新建文件夹",
-    "TODO.canvas",
-    "计算机导论",
-    "新建文件夹 (2)",
-    "新建文件夹"
+    "TODO.canvas"
   ]
 }
